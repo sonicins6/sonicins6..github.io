@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+
+table {
+    background-color: #25D366;
+    color: #2f2f2f;
+    min-height: 100vh;
+}
+
+.list_of_cards {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.card {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.card_image {
+    width: 500px;
+}
+
+#votona {
+    color: rgb(111, 111, 111);
+}
